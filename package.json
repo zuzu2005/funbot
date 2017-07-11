@@ -1,0 +1,32 @@
+{
+  "name": "funbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuzu2005/funbot.git"
+  },
+  "author": "zuzu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zuzu2005/funbot/issues"
+  },
+  "homepage": "https://github.com/zuzu2005/funbot#readme",
+  "dependencies": {
+    "ammo.js": "0.0.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-scripts": "^1.0.10",
+    "redux": "^3.7.1",
+    "three": "^0.86.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
