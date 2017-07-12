@@ -1,1 +1,5 @@
 node_modules/
+public/examples1.html
+public/three.js
+public/three.min.js
+public/three.module.js
